@@ -1,0 +1,8 @@
+/* Custom styling for the Wijmo FlexGrid */
+wj-flex-grid {
+    width: 100%;
+    height: 400px; /* or any height as required */
+  }
+  
+  /* Style for headers, rows, etc. */
+  

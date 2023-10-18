@@ -18,8 +18,11 @@
     "@angular/platform-browser": "^16.2.0",
     "@angular/platform-browser-dynamic": "^16.2.0",
     "@angular/router": "^16.2.0",
+    "@grapecity/wijmo.angular2.grid": "^5.20231.904",
+    "@grapecity/wijmo.styles": "^5.20231.904",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "wijmo": "^5.20231.904",
     "zone.js": "~0.13.0"
   },
   "devDependencies": {
